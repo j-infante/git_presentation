@@ -1,5 +1,5 @@
-GIT
+# GIT
 ---
-What is git?
+# What is git?
 ---
-Who Knows GIT?
+# Who Knows GIT?
